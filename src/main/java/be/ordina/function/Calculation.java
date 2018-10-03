@@ -13,5 +13,6 @@ public class Calculation {
 
 	private double real;
 	private double imaginary;
+	private int x, y;
 	private int max;
 }

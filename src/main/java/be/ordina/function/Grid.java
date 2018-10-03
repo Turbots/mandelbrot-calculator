@@ -11,8 +11,7 @@ import lombok.Setter;
 @AllArgsConstructor
 public class Grid {
 
-	private int x1, y1;
-	private int x2, y2;
+	private double x1, y1, x2, y2;
 	private int width, height;
 	private int depth;
 }
